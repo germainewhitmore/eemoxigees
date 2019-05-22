@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tungiitahd.codebyspalla.com/sitemap.xml
